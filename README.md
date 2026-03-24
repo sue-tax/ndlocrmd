@@ -26,4 +26,8 @@ usage: ndlxml2md [-h] [--sourcedir SOURCEDIR] [--sourcexml SOURCEXML] [--comma] 
 
 文書内の`,` を `、` に変換します。
 
-ndlxml2mdclick.exe を、
+#### インストール方法
+
+ndlxml2mdclick.exe を、下記などを参考に`SendTo`フォルダにコピーしてください。
+
+https://atmarkit.itmedia.co.jp/ait/articles/1109/30/news131.html
