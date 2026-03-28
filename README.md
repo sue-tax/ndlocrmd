@@ -26,6 +26,8 @@ usage: ndlxml2md [-h] [--sourcedir SOURCEDIR] [--sourcexml SOURCEXML] [--comma] 
 
 文書内の`,` を `、` に変換します。
 
+mdファイルその他のファイルのファイル名をタイトル本文に変更するかは、ダイアログボックスで確認する。
+
 #### インストール方法
 
 ndlxml2mdclick.exe を、下記などを参考に`SendTo`フォルダにコピーしてください。
