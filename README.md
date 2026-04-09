@@ -10,6 +10,8 @@ MDファイルその他のファイルのファイル名を、最初のタイト
 
 ndlocr-liteは、複数ページのPDFファイルを複数のXMLファイルにしますが、それらを1つのMDファイルにします。
 
+version0.12 複数ページをソートしてから処理するように変更
+
 ### ndlxml2md.exe
 
 usage: ndlxml2md [-h] [--sourcedir SOURCEDIR] [--sourcexml SOURCEXML] [--comma] --output OUTPUT
