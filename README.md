@@ -12,6 +12,8 @@ ndlocr-liteは、複数ページのPDFファイルを複数のXMLファイルに
 
 version0.12 複数ページをソートしてから処理するように変更
 
+version0.17 ファイル名候補の修正、本文が空の場合の対応など
+
 ### ndlxml2md.exe
 
 usage: ndlxml2md [-h] [--sourcedir SOURCEDIR] [--sourcexml SOURCEXML] [--comma] --output OUTPUT
